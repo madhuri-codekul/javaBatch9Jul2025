@@ -31,9 +31,10 @@ public class Variables {
         Variables v = new Variables();
         System.out.println("V: "+v);
         v.check();
+//        Variables.check();
     }
 
-    void check(){
+   void check(){
         int a=20;
         b = 60;
         c = 80;
