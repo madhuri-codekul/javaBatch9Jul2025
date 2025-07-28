@@ -33,4 +33,10 @@ Homework:
 4. Find out given number is Odd or Even using Scanner class
 	4 = Even
 	9 = Odd
-5.
+5.  Write a for loop to calculate the sum of all integers from 1 to 100.
+6.  Write a for loop that prints only the even numbers from 1 to 20.
+7.  Write a for loop to print the first 10 multiples of 5 (e.g., 5, 10, 15, ...).
+8.  Given a positive integer (e.g., 12345), write a for loop to reverse its digits and print the reversed number.
+9. Write a for loop to print all prime numbers between 1 and 50. (A prime number is a number greater than 1 that has no divisors other than 1 and itself.)
+10. Write a for loop to reverse a given string
+11. Count occurrences of a character in a string:
