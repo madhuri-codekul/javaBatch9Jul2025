@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6bd6295-79ee-4add-9215-cbfba8adf5f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javabatch/controlflowstmt/ForLoopEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javabatch/controlflowstmt/ForLoopOddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javabatch/controlflowstmt/StartPattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabatch/controlflowstmt/BreakDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabatch/controlflowstmt/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabatch/controlflowstmt/ContinueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabatch/controlflowstmt/ForEachDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabatch/controlflowstmt/ControlFlowStatement" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabatch/controlflowstmt/ControlFlowStatement" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +47,9 @@
       <recent name="$PROJECT_DIR$/src/javabatch/common" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StartPattern1">
-    <configuration name="DivisibleBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabatch.controlflowstmt.DivisibleBy" />
+  <component name="RunManager" selected="Application.ContinueDemo">
+    <configuration name="BreakDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabatch.controlflowstmt.BreakDemo" />
       <module name="JavaBatch9Jul2025" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabatch.controlflowstmt.ForLoopEx1" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabatch.controlflowstmt.Calculator" />
       <module name="JavaBatch9Jul2025" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +74,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopOddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabatch.controlflowstmt.ForLoopOddEven" />
+    <configuration name="ContinueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabatch.controlflowstmt.ContinueDemo" />
+      <module name="JavaBatch9Jul2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabatch.controlflowstmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabatch.controlflowstmt.ForEachDemo" />
       <module name="JavaBatch9Jul2025" />
       <extension name="coverage">
         <pattern>
@@ -100,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabatch.controlflowstmt.SwitchDemo" />
-      <module name="JavaBatch9Jul2025" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javabatch.controlflowstmt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContinueDemo" />
+        <item itemvalue="Application.BreakDemo" />
+        <item itemvalue="Application.ForEachDemo" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.StartPattern1" />
-        <item itemvalue="Application.ForLoopOddEven" />
-        <item itemvalue="Application.ForLoopEx1" />
-        <item itemvalue="Application.SwitchDemo" />
-        <item itemvalue="Application.DivisibleBy" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +221,41 @@
           <url>file://$PROJECT_DIR$/src/javabatch/controlflowstmt/ForLoopOddEven.java</url>
           <line>8</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javabatch/controlflowstmt/ForEachDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javabatch/controlflowstmt/ForEachDemo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javabatch/controlflowstmt/ForEachDemo.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javabatch/controlflowstmt/BreakDemo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javabatch/controlflowstmt/ContinueDemo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javabatch/controlflowstmt/ContinueDemo.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javabatch/controlflowstmt/ContinueDemo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
