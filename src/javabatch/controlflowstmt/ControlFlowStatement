@@ -37,6 +37,8 @@ Homework:
 6.  Write a for loop that prints only the even numbers from 1 to 20.
 7.  Write a for loop to print the first 10 multiples of 5 (e.g., 5, 10, 15, ...).
 8.  Given a positive integer (e.g., 12345), write a for loop to reverse its digits and print the reversed number.
-9. Write a for loop to print all prime numbers between 1 and 50. (A prime number is a number greater than 1 that has no divisors other than 1 and itself.)
+9.  Write a for loop to print all prime numbers between 1 and 50. (A prime number is a number greater than 1 that has no divisors other than 1 and itself.)
 10. Write a for loop to reverse a given string
 11. Count occurrences of a character in a string:
+12. Print numbers from 1-50 and skip odd numbers
+13. Print numbers from 1-100 and skip if number is divisible by 7, break if number is 69.
